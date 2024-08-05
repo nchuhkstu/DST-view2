@@ -5,3 +5,4 @@
 [submodule "DST-python"]
 	path = DST-python
 	url = git://github.com/2789314645/DST-python.git
+	branch = main
