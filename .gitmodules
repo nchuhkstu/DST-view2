@@ -1,6 +1,8 @@
 [submodule "DST-vue"]
 	path = DST-vue
 	url = git://github.com/nchuhkstu/DST-vue.git
+	branch = main
 [submodule "DST-python"]
 	path = DST-python
 	url = git://github.com/2789314645/DST-python.git
+	branch = main
