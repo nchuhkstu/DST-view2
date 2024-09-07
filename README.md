@@ -40,4 +40,10 @@
 
 ## 预览
 
-![服务器列表图片][https://i-blog.csdnimg.cn/direct/49b96258cfec4b988f58462e2bc7fe4c.jpeg]
+![服务器列表图片](https://i-blog.csdnimg.cn/direct/49b96258cfec4b988f58462e2bc7fe4c.jpeg)
+![运行状况图片](https://i-blog.csdnimg.cn/direct/e1a7ed419f8547ccbf869b185c1514e1.jpeg)
+![玩家管理图片](https://i-blog.csdnimg.cn/direct/5841a6ebb6064d32ac0953924bfb38f5.jpeg)
+![房间设置图片](https://i-blog.csdnimg.cn/direct/fa53db4d4f8a489296b3ccc48781ed50.jpeg)
+![世界设置图片](https://i-blog.csdnimg.cn/direct/d53fd72de06f4d80b9e723f867deac6a.jpeg)
+![资源占用图片](https://i-blog.csdnimg.cn/direct/38981c347ed7461aa446e8d40732eb3e.jpeg)
+![系统设置图片](https://i-blog.csdnimg.cn/direct/dae9747ff9bd4209b72c5cc62892593d.jpeg)
