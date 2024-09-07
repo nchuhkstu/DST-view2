@@ -40,4 +40,4 @@
 
 ## 预览
 
-![https://i-blog.csdnimg.cn/direct/49b96258cfec4b988f58462e2bc7fe4c.jpeg]
+![服务器列表图片][https://i-blog.csdnimg.cn/direct/49b96258cfec4b988f58462e2bc7fe4c.jpeg]
