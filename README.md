@@ -40,10 +40,14 @@
 
 ## 预览
 
-![服务器列表图片](https://i-blog.csdnimg.cn/direct/49b96258cfec4b988f58462e2bc7fe4c.jpeg)
-![运行状况图片](https://i-blog.csdnimg.cn/direct/e1a7ed419f8547ccbf869b185c1514e1.jpeg)
-![玩家管理图片](https://i-blog.csdnimg.cn/direct/5841a6ebb6064d32ac0953924bfb38f5.jpeg)
-![房间设置图片](https://i-blog.csdnimg.cn/direct/fa53db4d4f8a489296b3ccc48781ed50.jpeg)
-![世界设置图片](https://i-blog.csdnimg.cn/direct/d53fd72de06f4d80b9e723f867deac6a.jpeg)
-![资源占用图片](https://i-blog.csdnimg.cn/direct/38981c347ed7461aa446e8d40732eb3e.jpeg)
-![系统设置图片](https://i-blog.csdnimg.cn/direct/dae9747ff9bd4209b72c5cc62892593d.jpeg)
+![服务器列表图片](https://i-blog.csdnimg.cn/direct/3d00f539658a42128fa5b02560f346af.jpeg)
+![运行状况图片](https://i-blog.csdnimg.cn/direct/e594248897bb416688fb12e0e5493e04.jpeg)
+![玩家管理图片](https://i-blog.csdnimg.cn/direct/632c5f7525f74f66a92c0e41d87d5071.jpeg)
+
+![房间设置图片](https://i-blog.csdnimg.cn/direct/5bd0f67e44384503afb7a0f5269de784.jpeg)
+![世界设置图片](https://i-blog.csdnimg.cn/direct/829ef6bcc01d43daabf9f3799f9c2b52.jpeg)
+
+![模组设置图片](https://i-blog.csdnimg.cn/direct/f825b0100f854ea4ab4188f603625019.jpeg)
+
+![模组订阅图片](https://i-blog.csdnimg.cn/direct/18fd3c269ca54b91aaecd629200b5289.jpeg)![资源占用图片](https://i-blog.csdnimg.cn/direct/e73035aee88c40bc9cf9da17b9a84bd5.jpeg)
+![系统设置图片](https://i-blog.csdnimg.cn/direct/d436e5c2087247de84073449ebad869b.jpeg)
